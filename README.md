@@ -9,7 +9,7 @@ I'm front end developer and ui designer. Welcome to my github :)
 
 - :blue_heart: Techs: HTML, CSS, JavaScript, SASS, BootStrap, ReactJS, Material UI, Styled-components.
 - :white_check_mark: Skills: Responsive Design, UI Design, Wireframing, Prototyping.
-- :construction: Studying: NodeJS, TypeScript
+- :construction: Studying: NodeJS, TypeScript, Python
 
 </br>
 
