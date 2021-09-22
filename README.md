@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdoe-dev/)](https://www.linkedin.com/in/matheusdoe-dev/)
 
-- I am a Computer Science student and I am a web developer working with front end development for now.
+- I am a Computer Science student and working with front end development for now.
 - **Tecnologies**: React.js, Next.js, TypeScript, Styled-components, Angular and React Native.
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
