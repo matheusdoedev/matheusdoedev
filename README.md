@@ -1,7 +1,7 @@
 # Hello there! Nice to meet you! 👋
 
 [![wakatime](https://wakatime.com/badge/user/e1cf9e47-a628-4f84-a180-8a6eccf0f33d.svg)](https://wakatime.com/@e1cf9e47-a628-4f84-a180-8a6eccf0f33d)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdoedev/)](https://www.linkedin.com/in/matheusdoe-dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdoedev/)](https://www.linkedin.com/in/matheusdoedev/)
 
 - I am a Computer Science student and working with front end development for now.
 - **Tecnologies**: HTML, CSS, SASS, JavaScript, TypeScript, React.js, Next.js, Styled-components, Bootstrap, Material UI, Angular 2+.
