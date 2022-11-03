@@ -4,14 +4,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdoedev/)](https://www.linkedin.com/in/matheusdoedev/)
 
 - I am a Computer Science student and working with front end development for now.
-- **Tecnologies**: HTML, CSS, SASS, JavaScript, TypeScript, React.js, Next.js, Styled-components, Bootstrap, Material UI, Angular 2+.
-- **Studying**: Node.js, Vue.js, Nuxt.js, React Native.
+- **Tecnologies**: HTML, CSS, SASS, JavaScript, TypeScript, React.js, Next.js, Styled-components, Bootstrap, Material UI, Angular, Vue.js, Node.js, React Native, Java.
+
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=matheusdoedev&layout=compact&theme=vue-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=matheusdoedev&layout=compact&theme=vue-dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdoedev&layout=compact&theme=vue-dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdoedev&layout=compact&theme=vue-dark" />
 </a>
 
 
