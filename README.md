@@ -9,7 +9,7 @@
 
 </br>
 <a style="width: 100%" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdoedev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdoedev&layout=compact&theme=vue-dark" />
 </a>
 </br>
 </br>
