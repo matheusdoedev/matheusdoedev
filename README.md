@@ -7,11 +7,11 @@
 - **Technologies that I work with**: HTML, CSS, Git, SASS, JavaScript, TypeScript, React.js, GraphQL, GraphCMS, Next.js, Angular, Vue.js, Node.js, Adonis.js, Nest.js, React Native, Java.
 - **Technologies that I am studying right now**: Spring framework, Spring boot, tests in frontend, and relational databases.
 
-</br>
+/* </br>
 <a style="width: 100%" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdoedev" />
 </a>
 </br>
-</br>
+</br> */
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusdoedev&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
